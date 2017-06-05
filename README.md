@@ -8,6 +8,8 @@
 
 [pitch](https://drive.google.com/file/d/0B6FN81AS9D1mZ2wyMlEyVWJTMEk/view?usp=sharing)
 
+[audience/content](https://docs.google.com/document/d/1WEB0AodWWwRujwAttkGAUifKYmHwJu5TgWKDKEVbTOE/edit?usp=sharing)
+
 ## Blogs
 1 http://fourthfloor.raveweb.net/jfielding/2017/03/13/week-1-sharing-is-caring/
 
