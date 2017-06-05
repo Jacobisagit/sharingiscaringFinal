@@ -1,11 +1,12 @@
 # Sharing-is-Caring
 
-Website - https://jacobisagit.github.io/sharingiscaringFinal/
+Website(https://jacobisagit.github.io/sharingiscaringFinal/)
 
-Code - https://github.com/Jacobisagit/sharingiscaringFinal
+[Code](https://github.com/Jacobisagit/sharingiscaringFinal)
 
-[video formative] - (https://www.youtube.com/watch?v=-cBPDDOa9mY)
+[video formative](https://www.youtube.com/watch?v=-cBPDDOa9mY)
 
+[pitch](https://drive.google.com/file/d/0B6FN81AS9D1mZ2wyMlEyVWJTMEk/view?usp=sharing)
 
 
 
